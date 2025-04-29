@@ -1,0 +1,1 @@
+This project is a Command-Line Contact Management System written in C. It allows users to manage a list of contacts stored in a very basic CSV file (contacts.csv). The system provides various functionalities including adding, reading, updating, deleting, searching, and sorting contacts.
